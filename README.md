@@ -13,6 +13,8 @@ The Technologies used are :
 **To run on Local Machine**
 - clone the repository
 - navigate to the folder
-- create a .env file
+create a .env file
 - add PORT=3500
 - add MONGODB_URL='inside your db url'
+- add REFRESH_TOKEN_SECRET=any secret code
+- add ACCESS_TOKEN_SECRET= any secret code
