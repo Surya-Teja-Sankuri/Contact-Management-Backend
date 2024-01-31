@@ -9,3 +9,10 @@ The Technologies used are :
 **Express.js** for routing purpose
 <br/>
 **MongoDB** for database storage
+
+**To run on Local Machine**
+- clone the repository
+- navigate to the folder
+- create a .env file
+- add PORT=3500
+- add MONGODB_URL='inside your db url'
